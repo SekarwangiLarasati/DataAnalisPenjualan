@@ -1,7 +1,5 @@
 # Data_Analis_Penjualan
 Sekarwangi Larasati_12030122140205
-
-# DataAnalisPenjualan
 Perusahaan PT.Ceria adalah sebuah perusahaan ritel yang menjual berbagai jenis barang. 
 
 # SOAL 
