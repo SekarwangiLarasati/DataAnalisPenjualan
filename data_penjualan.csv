@@ -1,0 +1,7 @@
+Faktur,Tanggal Penjualan,Jenis Kelamin,Jenis Barang,Jumlah,Harga Satuan
+F001,2023-01-15,Pria,Elektronik,2,500000
+F002,2023-01-17,Wanita,Pakaian,1,200000
+F003,2023-01-20,Pria,Elektronik,1,500000
+F004,2023-01-22,Wanita,Kosmetik,3,100000
+F005,2023-01-25,Pria,Pakaian,2,200000
+F006,2023-01-28,Wanita,Elektronik,1,500000
